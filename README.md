@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about : +94702.....
 - 📫 How to reach me: dksadkl
 
+
+I have started to learn data engineering from scratch.
