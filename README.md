@@ -17,4 +17,5 @@ I have started to learn data engineering from scratch.
 
 First I am going to learn SQL
 
-There is a change
+There are some changes
+
