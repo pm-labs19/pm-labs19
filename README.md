@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 
 
 I have started to learn data engineering from scratch.
+
+First I am going to learn SQL
